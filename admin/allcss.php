@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>GK Marine | Admin Panel</title>
+    <title>HalthWave | Admin Panel</title>
 
     <!-- Main Styles -->
     <link rel="stylesheet" href="assets/styles/style.min.css">
