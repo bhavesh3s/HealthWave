@@ -23,5 +23,13 @@ https://aicte-project.azurewebsites.net/
   
   <h2>Video of our deployed service</h2>
   
-  
+  <h3> Video -1 </h3  
+
+https://user-images.githubusercontent.com/31930722/161434674-1cd90138-d080-4c84-b469-9c6da9635135.mp4
+
+  <h3> Video -2 </h3  
+
+https://user-images.githubusercontent.com/31930722/161434692-9de16da3-2131-48fc-912b-85287930afd5.mp4
+
+
     
